@@ -21,8 +21,9 @@ Since Nintendo might take this down (no big reason to, but still), I suggest you
 
 # Credits
  * Finder352 // Graphics
- * Gabubu // Finding the WiiFlow Dance Party WAD
- * Damaj301damaj // Finding the Super Mario WAR (Super Mario Bros. 3 Cover art)
+ * Gabubu // Found the WiiFlow Dance Party WAD
+ * jornmann // Found a lot of WADs, including WiiRadio by ThatDude.
+ * Damaj301damaj // Found the Super Mario WAR (Super Mario Bros. 3 Cover art)
  * and of course, generic you. Thank you.
 
 # Download
