@@ -1,4 +1,4 @@
-# Wii Archive // By Forwarder Factory
+# Wii Archive by Forwarder Factory
 After years of collecting WADs, I finally managed to compile everything into one big repository where things can easily be grabbed.
 
 I've had these on my hard drives, and a small part of it mirrored to Archive.org but I always had this feeling where I wanted to mirror it just in case my drive 
