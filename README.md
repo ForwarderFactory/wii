@@ -15,6 +15,9 @@ Since Nintendo might take this down (no big reason to, but still), I suggest you
 Wii Forwarders, Wii Channels, Wii Exploits, Wii Homebrew Apps, Wii Development Stuff, Wii NANDs, and various other things.
 Most is available through NUS
 
+# Join the Forwarder Factory Discord server.
+If you're enjoying these files and you want more, please join the Forwarder Factory Discord server.
+Click here to be redirected to the Discord invite: https://ffdiscord.github.io
 
 # Credits
  * Finder352 // Graphics and some other cool stuff
@@ -24,6 +27,5 @@ Most is available through NUS
  * and of course, you. (just like every mario game lol) Thank you!
 
 # Download
-
 Download the "source" using your preferred method.
 Simple as that! Enjoy! 🎆
