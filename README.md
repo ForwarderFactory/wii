@@ -1,4 +1,4 @@
-# Wii Archive by Forwarder Factory
+# Wii Archive by Forwarder Factory (v2) 💣
 After years of collecting WADs, I finally managed to compile everything into one big repository where things can easily be grabbed.
 
 I've had these on my hard drives, and a small part of it mirrored to Archive.org but I always had this feeling where I wanted to mirror it just in case my drive 
@@ -11,23 +11,19 @@ Since Nintendo might take this down (no big reason to, but still), I suggest you
 #### Small note: A direct link to this repository may not be allowed in some communities (discord servers for example) either due to ToS or due to individual server rules.
 #### I suggest you follow their rules and don't post a link to this repository. Thank you!
 
-# File Structure (kinda like dir)
-
-![image](https://user-images.githubusercontent.com/71722170/133334000-ab022067-b732-42ef-9531-366dae69e790.png)
-
 # Archive Contains:
- Coming Soon!
+Wii Forwarders, Wii Channels, Wii Exploits, Wii Homebrew Apps, Wii Development Stuff, Wii NANDs, and various other things.
+Most is available through NUS
 
 
 # Credits
- * Finder352 // Graphics
+ * Finder352 // Graphics and some other cool stuff
  * Gabubu // Found the WiiFlow Dance Party WAD
  * jornmann // Found a lot of WADs, including WiiRadio by ThatDude.
  * Damaj301damaj // Found the Super Mario WAR (Super Mario Bros. 3 Cover art)
- * and of course, generic you. Thank you.
+ * and of course, you. (just like every mario game lol) Thank you!
 
 # Download
 
-Download the release or run "git clone https://github.com/ForwarderFactory/wii/"
-Simple as that!
-
+Download the "source" using your preferred method.
+Simple as that! Enjoy! 🎆
