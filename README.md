@@ -29,3 +29,6 @@ Click here to be redirected to the Discord invite: https://ffdiscord.github.io
 # Download
 Download the "source" using your preferred method.
 Simple as that! Enjoy! 🎆
+
+# What was left out?
+I left out some things on purpose. This includes files from the Gigaleak which I have but won't give you.
