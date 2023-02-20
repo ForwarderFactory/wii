@@ -1,9 +1,10 @@
 # Wii Archive
 
-- Homebrew Channel archive can be found [here](https://github.com/forwarderfactory/hbc-archive).
-- Homebrew Applications and anything not HBC related can be found in this repository.
+## Note
 
-# What does the archive contain?
+There are two archives as of now, [hbc-archive](https://github.com/ForwarderFactory/hbc-archive), which is for archiving Homebrew Channel and BootMii related media. This one, the [wii](https://github.com/ForwarderFactory/wii) archive is for general Wii media.
+
+## What does the archive contain?
 
 This archive contains:
 
@@ -19,14 +20,14 @@ This archive contains:
 Software related to the Nintendo Wii in some way
 Most is available through NUS
 
-# Credits
- * Lilium_Snow // Graphics and some other cool stuff
- * Gabubu // Found the WiiFlow Dance Party WAD
- * jornmann // Found a lot of WADs, including WiiRadio by ThatDude.
- * Damaj301damaj // Found the Super Mario WAR (Super Mario Bros. 3 Cover art)
- * and of course, you. (just like every mario game lol) Thank you!
+## Credits
+
+ * [Lilium_Snow](https://snowcake.me) - Graphics and some other cool stuff
+ * [Gabubu](https://gabubu.gq/) - Found the WiiFlow Dance Party WAD
+ * [emilyd](https://donut.gq) - Found a lot of WADs, such as WiiRadio by ThatDude.
+ * [Damaj301damaj](https://github.com/Damaj301damaj-lol) - Found the Super Mario WAR (Super Mario Bros. 3 Cover art)
 
 # Download
     git clone https://github.com/ForwarderFactory/wii
     cd wii
-    // Do what you want here!
+    // Do what you want with it!
