@@ -24,7 +24,7 @@ Most is available through NUS
 
  * [Lilium_Snow](https://snowcake.me) - Graphics and some other cool stuff
  * [Gabubu](https://gabubu.gq/) - Found the WiiFlow Dance Party WAD
- * [emilyd](https://donut.gq) - Found a lot of WADs, such as WiiRadio by ThatDude.
+ * [emilyd](https://donut.eu.org) - Found a lot of WADs, such as WiiRadio by ThatDude.
  * [Damaj301damaj](https://github.com/Damaj301damaj-lol) - Found the Super Mario WAR (Super Mario Bros. 3 Cover art)
 
 # Download
