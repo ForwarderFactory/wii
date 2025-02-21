@@ -20,9 +20,13 @@ Most is available through NUS
 
 ## Credits
 
-- [Lilium_Snow](https://snowcake.me)
+- [Jacob Nilsson](https://jacobnilsson.com)
+  - Archival and maintaining of forwarders/channels, as well as starting the Forwarder Factory project
+- [Primrose](https://snowbellium.net)
+  - Maintains Forwarder Factory
   - Graphics and some other cool stuff
-- [Gabubu](https://gabubu.gq/)
+- [Gabubu](https://wads.gabubu.xyz)
+  - Maintains Forwarder Factory
   - Found the WiiFlow Dance Party WAD
 - [emilyd](https://donut.eu.org)
   - Found a lot of WADs, such as WiiRadio by ThatDude.
@@ -41,4 +45,3 @@ and this repository may be taken down one day.
 ## See also
 
 - [hbc-archive](https://github.com/ForwarderFactory/hbc-archive)
-- [speedie.site](https://speedie.site)
